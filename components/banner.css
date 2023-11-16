@@ -1,0 +1,20 @@
+.banner {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 90%;
+  background-color: white;
+  border-radius: 200px;
+}
+
+@media screen and (max-width: 972px) {
+  .banner-container {
+    margin-top: 1%;
+  }
+}
+
+.banner h1 {
+  font-size: 100px;
+}

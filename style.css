@@ -1,0 +1,28 @@
+@import url('./components/banner.css');
+@import url('./components/card.css');
+@import url('./components/carrousel.css');
+@import url('./components/container.css');
+@import url('./components/illustrations.css');
+
+@font-face {
+  font-family: 'Vina Sans';
+  src: url('./fonts/VinaSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Questrial';
+  src: url('./fonts/Questrial-Regular.ttf');
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+  margin: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Vina Sans';
+}
+
+p {
+  font-family: 'Questrial';
+}

@@ -1,0 +1,168 @@
+#illu-6 {
+  position: absolute;
+  bottom: 10%;
+  right: 10%;
+  transform: rotate(15deg);
+}
+
+#illu-6:hover {
+  transform: rotate(360deg);
+  transition: 1s ease;
+}
+
+@media screen and (max-width: 972px) {
+  #illu-6 {
+    right: 1%;
+    bottom: 8%;
+    width: 180px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #illu-6 {
+    right: 1%;
+    bottom: 8%;
+    width: 150px;
+  }
+}
+
+#illu-1 {
+  position: absolute;
+  top: 11%;
+  right: 15%;
+  transform: rotate(15deg);
+}
+
+#illu-1:hover {
+  transform: rotate(360deg);
+  transition: 1s ease;
+}
+
+@media screen and (max-width: 972px) {
+  #illu-1 {
+    top: 7%;
+    right: 5%;
+    width: 180px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #illu-1 {
+    top: 7%;
+    right: 2%;
+    width: 150px;
+  }
+}
+
+#illu-3 {
+  position: absolute;
+  bottom: 9%;
+  left: 12%;
+}
+
+#illu-3:hover {
+  transform: rotate(360deg);
+  transition: 1s ease;
+}
+
+
+@media screen and (max-width: 972px) {
+  #illu-3 {
+    bottom: 7%;
+    left: 5%;
+    width: 180px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #illu-3 {
+    bottom: 8%;
+    left: 3%;
+    width: 150px;
+  }
+}
+
+#illu-4 {
+  position: absolute;
+  top: 2%;
+  left: 35%;
+  transform: rotate(170deg);
+}
+
+#illu-4:hover {
+  transform: rotate(360deg);
+  transition: 1s ease;
+}
+
+
+@media screen and (max-width: 972px) {
+  #illu-4 {
+    left: 30%;
+    width: 180px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #illu-4 {
+    top: 1%;
+    left: 25%;
+    width: 150px;
+  }
+}
+
+#illu-5 {
+  position: absolute;
+  bottom: 2%;
+  right: 35%;
+  transform: rotate(0deg);
+}
+
+#illu-5:hover {
+  transform: rotate(360deg);
+  transition: 1s ease;
+}
+
+@media screen and (max-width: 972px) {
+  #illu-5 {
+    right: 30%;
+    bottom: 1%;
+    width: 180px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #illu-5 {
+    right: 27%;
+    bottom: 1%;
+    width: 150px;
+  }
+}
+
+
+#illu-2 {
+  position: absolute;
+  top: 22%;
+  left: 10%;
+  transform: rotate(110deg);
+}
+
+#illu-2:hover {
+  transform: rotate(360deg);
+  transition: 1s ease;
+}
+
+@media screen and (max-width: 972px) {
+  #illu-2 {
+    top: 12%;
+    left: 5%;
+    width: 180px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #illu-2 {
+    top: 12%;
+    left: 4%;
+    width: 150px;
+  }
+}
